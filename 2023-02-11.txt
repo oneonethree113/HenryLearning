@@ -1,0 +1,4 @@
+Finish Hankerrank Week 2 test
+
+learnt installing software in linus
+learn checking command history in linux
