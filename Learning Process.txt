@@ -1,3 +1,7 @@
+2023-02-15
+Docstring in python
+Generator in python
+
 2023-02-14
 10 questions in hacker rank
 
