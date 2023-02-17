@@ -1,3 +1,11 @@
+2023-02-17
+Study backtest.py doc
+do 6 execise in hackerrank and 1 mock test
+
+2023-02-16
+Do a online programming skill test on hackerrank after applying a development role
+do 3 execise in hackerrank
+
 2023-02-15
 Docstring in python
 Generator in python
